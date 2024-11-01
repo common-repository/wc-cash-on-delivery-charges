@@ -1,0 +1,263 @@
+img.wpcc_rating_div {
+    width: 11%;
+    vertical-align: middle;
+}
+.wpcc_container {
+    display: inline-block;
+    width: 100%;
+    background-color: #e3e3e3;
+    border: 1px solid #ccc; 
+    margin-top :25px;
+}
+.wpcc_container h2 {
+    margin: 0px;
+    background: #8bc34a;
+    color: #fff;
+    padding: 12px;
+}
+table.wpcc_table {
+    width: 100%;
+    display: inline-block;
+    padding: 15px;
+}
+table.wpcc_table tr td:first-child {
+    font-weight: bold;
+    font-size: 14px;
+    padding-right: 22px;
+    min-width: 250px;
+}
+table.wpcc_table tr.wpcc_color_tr td:first-child {
+    vertical-align: middle;
+}
+tr.wpcc_color_tr .wp-picker-container {
+    vertical-align: text-top;
+}
+.wpcc_scode_info {
+    margin: 0;
+    font-size: 14px;
+}
+.oc_wpcc input[type="submit"] {
+    background-color: #3f51b5;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    width: 14%;
+    padding: 11px;
+    margin: 21px;
+     cursor:pointer !important;
+}
+table.wpcc_table tr {
+    line-height: 50px;
+    vertical-align: top;
+}
+.tablenav .actions select {
+    float: left;
+    display: inline-block;
+    margin-right: 6px;
+    width: 60%;
+    max-width: 12.5rem;
+}
+table.wpcc_list_table {
+    width: 100%;
+    display: inline-block;
+    margin-top: 15px;
+    border: none;
+}
+table.wpcc_list_table thead {
+    display: inline-block;
+    width: 100%;
+    border: none;
+}
+table.wpcc_list_table tbody {
+    width: 100%;
+    display: inline-block;
+    border: none;
+}
+table.wpcc_list_table tr {
+    width: 100%;
+    display: inline-block;
+    border: none;
+    line-height: 25px;
+}
+table.wpcc_list_table tr th , table.wpcc_list_table tr td{
+    width: 15%;
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    border: none;
+}
+form.wpcc_import {
+    padding: 15px;
+}
+form.wpcc_import input[type="submit"] {
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    display: block;
+    margin-top: 30px;
+     cursor:pointer !important;
+}
+form.wpcc_import input[type="submit"] {
+    display: block;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-top: 30px;
+     cursor:pointer !important;
+}
+form.wpcc_import input[type="file"] {
+    border: 1px dashed;
+    padding: 15px;
+}
+.wpcc_table input[type="submit"] {
+    background-color: #8bc34a;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    width:74%;
+    cursor:pointer !important;
+}
+.wpcc_importbox {
+    width: 40%;
+}
+.wpcc_importbox h3 {
+    margin-top: 0;
+}
+a.wpcc_demo_file {
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+}
+.wpcc_list_postcode {
+    padding: 15px;
+}
+.wpcc_notice_error {
+    padding: 15px;
+}
+.wpcc_notice_error p {
+    font-size: 16px;
+    color: #ff0000;
+    margin: 0;
+}
+.wpcc_notice_success {
+    padding: 15px;
+}
+.wpcc_notice_success p {
+    font-size: 16px;
+    color: #008000;
+    margin: 0;
+}
+.wpcc_nosrvtxt td input[type="text"] {
+    width: 400px;
+}
+
+
+.wpcc_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.wpcc_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.wpcc_rateus_notice, .wpcc_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+    margin-bottom: 10px;
+}
+.wpcc_rateus_notice h3, .wpcc_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.wpcc_rateus_notice label, .wpcc_support_notice label {
+    font-size: 16px;
+}
+.wpcc_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.wpcc_rateus_notice a, .wpcc_support_notice a {
+    color: #fff;
+}
+.wpcc_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.wpcc_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.wpcc_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.wpcc_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.wpcc_donate_main img {
+    height: 32px;
+}
+.wpcc_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.wpcc_donate_main h3 {
+    font-size: 15px;
+}
+.wpcc_donate_form {
+    display: flex;
+}
+.wpcc_donate_main .button {
+    text-align: center;
+}
+a.addcolumn img, a.addrow img {
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+    cursor: pointer;
+}
+a.deletecolumn img, a.deleterow img {
+    width: 20px;
+    height: auto;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 767px) {
+    .wpcc_rtusnoti_left {
+        width: 80%;
+    }
+}
